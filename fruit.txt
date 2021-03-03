@@ -10,3 +10,5 @@ date
 melon
 blueberry
 blueberry
+grape
+strawberry
